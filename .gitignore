@@ -71,3 +71,11 @@ target/
 .ipynb_checkpoints
 site/
 *.md.tmp
+
+# pixi environments
+.pixi
+*.egg-info
+
+# SQLite database
+message_log.db
+.env
